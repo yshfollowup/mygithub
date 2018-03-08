@@ -10,7 +10,11 @@
 	a{
 		text-decoration: none;
 	}
-	h2{font-family: serif;}
+	
+	body, h2{
+		font-family: serif;
+		color:red;
+	}
 </style>
 </head>
 <body>
