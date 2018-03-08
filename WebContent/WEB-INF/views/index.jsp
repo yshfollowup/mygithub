@@ -6,6 +6,12 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Insert title here</title>
+<style>
+	a{
+		text-decoration: none;
+	}
+	h2{font-family: serif;}
+</style>
 </head>
 <body>
 	<h2>Project managed by GIT</h2>
