@@ -9,7 +9,7 @@
 
 		
 	<mvc:annotation-driven />
-	<context:component-scan base-package="mvc.controllers" />
+	<context:component-scan base-package="mvc.controller" />
 	
 
 	<bean
