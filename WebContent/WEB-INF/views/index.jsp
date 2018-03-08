@@ -10,6 +10,7 @@
 	<h2>Project managed by GIT</h2>
 	<div>
 		<b>이제부터 시작!</b>
+		<hr/>
 	</div>
 </body>
 </html>
